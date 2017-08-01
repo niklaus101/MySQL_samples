@@ -1,3 +1,4 @@
+# version 2
 import MySQLdb
 
 # Open database connection
